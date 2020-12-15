@@ -1,3 +1,6 @@
+# Prerequisites
+* ttf-hack
+
 # Patches applied
 * center
 * lineheight
