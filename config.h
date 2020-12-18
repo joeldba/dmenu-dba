@@ -11,10 +11,10 @@ static const char *fonts[] = {
 static const char *prompt      = "run:";      /* -p  option; prompt to the left of input field */
 static const char *colors[SchemeLast][2] = {
 	/*     fg         bg       */
-	[SchemeNorm] = { "#d8dee9", "#2e3440" },
-	[SchemeSel] = { "#eceff4", "#434c5e" },
+	[SchemeNorm] = { "#8abeb7", "#1d1f21" },
+	[SchemeSel] = { "#c5c8c6", "#373b41" },
 	[SchemeOut] = { "#000000", "#00ffff" },
-	[SchemeMid] = { "#d8dee9", "#3b4252" },
+	[SchemeMid] = { "#8abeb7", "#282a2e" },
 };
 /* -l option; if nonzero, dmenu uses vertical list with given number of lines */
 static unsigned int lines      = 15;
