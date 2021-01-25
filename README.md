@@ -1,5 +1,5 @@
 # Prerequisites
-* ttf-hack
+* ttf-dejavu
 
 # Patches applied
 * center
