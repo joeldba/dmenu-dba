@@ -1,5 +1,5 @@
 # Prerequisites
-* ttf-dejavu
+* terminus-font
 
 # Patches applied
 * center
